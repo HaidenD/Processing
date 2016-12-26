@@ -1,3 +1,9 @@
+/*
+   Created by Haiden Deaton
+   With reference by Daniel Shiffman
+   https://www.youtube.com/watch?v=17WoOqgXsRM 
+*/
+
 class Star {
   /*X position
     Y Position

@@ -1,3 +1,9 @@
+/*
+  Created by Haiden Deaton
+   With Reference by Daniel Shiffman
+   https://www.youtube.com/watch?v=17WoOqgXsRM */
+
+
 Star[] stars = new Star[3000];
 float speed;
 
