@@ -8,7 +8,7 @@ Star[] stars = new Star[3000];
 float speed;
 
 void setup(){
-  size(800,800);
+  size(460,800);
   for (int i = 0; i < stars.length; i++) {
     stars[i] = new Star();
   }
