@@ -1,3 +1,8 @@
+/*
+  Created by Haiden Deaton
+   With Reference by Daniel Shiffman
+   https://youtu.be/KkyIDI6rQJI */
+
 class Drop{
   float x = random(width);
   float y = random(-1000,0);

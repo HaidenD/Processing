@@ -1,3 +1,8 @@
+/*
+  Created by Haiden Deaton
+   With Reference by Daniel Shiffman
+   https://youtu.be/KkyIDI6rQJI */
+
 /* Teal Rain*/
 Drop[] drops = new Drop[300];
 void setup(){
